@@ -83,11 +83,11 @@
                             <mask key="constraints">
                                 <include reference="XJG-ON-gkc"/>
                                 <exclude reference="h0p-rP-rFY"/>
+                                <exclude reference="f0U-Ea-pjk"/>
                                 <include reference="0fS-8P-w7q"/>
                                 <exclude reference="FHH-Lz-CBg"/>
                                 <exclude reference="mgY-Ey-0ha"/>
                                 <include reference="tCx-yF-sAp"/>
-                                <exclude reference="f0U-Ea-pjk"/>
                             </mask>
                         </variation>
                     </view>
